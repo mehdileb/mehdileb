@@ -1,17 +1,75 @@
-Hi, I'm Mehdi 👋
-Final-year Engineering student at ENSIAS — Business Intelligence & Analytics, interested in AI Engineering, Retrieval-Augmented Generation, Data Engineering and reliable data platforms.
-Focus areas
-AI / document systems: RAG, vector databases, LLM APIs, PDF/OCR workflows
-Data engineering: Python, SQL, pandas, dbt, Airflow, PySpark, Databricks, ClickHouse
-Backend / tools: FastAPI, Django, Docker, Git, Streamlit
-Selected experience and learning
-- Orange Business Maroc / DS Maroc — Data Analyst internship (2026): contributed to a people-governance and analytics platform using PostgreSQL, dbt, ClickHouse, Airflow and Power BI in a team context.
-- E-commerce Lakehouse (Olist): academic Bronze–Silver–Gold processing project with PySpark and Delta Lake.
-- PDF RAG system — guided technical study: traced a tutorial Python implementation using Streamlit, Inngest, LlamaIndex, OpenAI and Qdrant; documented architecture and failure modes.
-- Document OCR/LLM extraction: invoice-processing work with Python and Gemini API (details available upon request).
-Current learning goals
-Production-grade Python APIs • RAG evaluation • AI agent orchestration • model cost/quality trade-offs • testing and deployment
-Links
-- LinkedIn
-- GitHub
-This profile focuses on verifiable work. Projects derived from tutorials are labeled as guided studies, and client/private repositories are not redistributed without authorization.
+
+<h1 align="center">Hi 👋, I'm Mehdi</h1>
+
+<p align="center">
+  <strong>AI & Data Engineering | ENSIAS</strong>
+</p>
+
+<p align="center">
+  Final-year Engineering Student in Business Intelligence & Analytics.
+  <br>
+  Interested in Generative AI, RAG, AI Agents and Data Engineering.
+</p>
+
+---
+
+### 💻 Languages
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+
+### 🤖 AI & Generative AI
+
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![LlamaIndex](https://img.shields.io/badge/LlamaIndex-6246EA?style=for-the-badge)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Qdrant](https://img.shields.io/badge/Qdrant-DC244C?style=for-the-badge)
+![RAG](https://img.shields.io/badge/RAG-4285F4?style=for-the-badge)
+
+### 📊 Data Engineering
+
+![Apache Airflow](https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white)
+![dbt](https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white)
+![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
+![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white)
+![ClickHouse](https://img.shields.io/badge/ClickHouse-FFCC01?style=for-the-badge&logo=clickhouse&logoColor=black)
+![pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+
+### ⚙️ Backend & Databases
+
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
+### 🛠️ Tools
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+
+---
+
+### 🚀 Featured Projects
+
+**[PDF RAG Application](https://github.com/mehdileb/rag-pdf-inngest-qdrant)**
+
+Event-driven document ingestion and retrieval using FastAPI, Inngest, LlamaIndex, OpenAI, Qdrant and Streamlit.
+
+**E-commerce Lakehouse — Olist**
+
+Bronze-Silver-Gold data pipeline using Databricks, PySpark and Delta Lake.
+
+**Enterprise Data Platform — Orange Business Maroc**
+
+Contributed to an HR governance and analytics platform using PostgreSQL, dbt, ClickHouse, Airflow and Power BI.
+
+---
+
+### 📫 Connect with Me
+
+[LinkedIn](https://www.linkedin.com/in/mehdilebsire/)
+
+*Always learning, building and improving.*
